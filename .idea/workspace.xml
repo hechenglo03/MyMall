@@ -2,9 +2,1728 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a92016f7-04a6-40d7-9c1e-f327330f2894" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/cheatsheet.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/component.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/css/ionicons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/css/ionicons.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/fonts/ionicons.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/fonts/ionicons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/fonts/ionicons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/fonts/ionicons.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/less/_ionicons-font.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/less/_ionicons-icons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/less/_ionicons-variables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/less/ionicons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/alert-circled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/alert.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-add-contact.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-add.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-alarm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-archive.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-arrow-back.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-arrow-down-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-arrow-down-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-arrow-forward.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-arrow-up-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-arrow-up-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-battery.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-book.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-calendar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-call.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-camera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-chat.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-checkmark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-clock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-close.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-contact.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-contacts.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-data.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-developer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-display.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-download.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-drawer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-dropdown.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-earth.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-folder.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-forums.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-friends.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-hand.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-inbox.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-information.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-keypad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-lightbulb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-locate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-location.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-mail.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-microphone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-mixer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-more.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-note.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-playstore.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-printer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-promotion.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-reminder.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-remove.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-send.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-settings.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-share.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-social-user.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-social.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-sort.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-stair-drawer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-star.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-stopwatch.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-storage.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-system-back.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-system-home.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-system-windows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-timer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-trash.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-user-menu.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-volume.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/android-wifi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/aperture.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/archive.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-down-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-down-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-down-c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-expand.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-graph-down-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-graph-down-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-graph-up-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-graph-up-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-left-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-left-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-left-c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-move.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-resize.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-return-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-return-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-right-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-right-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-right-c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-shrink.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-swap.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-up-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-up-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/arrow-up-c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/asterisk.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/at.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/bag.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/battery-charging.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/battery-empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/battery-full.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/battery-half.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/battery-low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/beaker.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/beer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/bluetooth.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/bonfire.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/bookmark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/briefcase.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/bug.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/calculator.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/calendar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/camera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/card.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/cash.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chatbox-working.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chatbox.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chatboxes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chatbubble-working.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chatbubble.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chatbubbles.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/checkmark-circled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/checkmark-round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/checkmark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chevron-down.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chevron-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chevron-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/chevron-up.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/clipboard.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/clock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/close-circled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/close-round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/close.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/closed-captioning.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/cloud.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/code-download.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/code-working.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/code.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/coffee.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/compass.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/compose.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/connection-bars.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/contrast.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/cube.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/disc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/document-text.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/document.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/drag.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/earth.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/edit.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/egg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/eject.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/eye-disabled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/eye.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/female.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/filing.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/film-marker.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/fireball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/flag.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/flame.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/flash-off.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/flash.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/flask.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/folder.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/fork-repo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/fork.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/forward.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/funnel.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/game-controller-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/game-controller-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/gear-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/gear-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/grid.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/hammer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/happy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/headphone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/heart-broken.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/heart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/help-buoy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/help-circled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/help.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/home.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/icecream.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/icon-social-google-plus-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/icon-social-google-plus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/images.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/information-circled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/information.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ionic.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-alarm-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-alarm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-albums-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-albums.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-americanfootball-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-americanfootball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-analytics-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-analytics.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-back.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-down.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-forward.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-thin-down.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-thin-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-thin-right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-thin-up.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-arrow-up.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-at-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-at.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-barcode-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-barcode.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-baseball-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-baseball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-basketball-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-basketball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-bell-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-bell.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-bolt-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-bolt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-bookmarks-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-bookmarks.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-box-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-box.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-briefcase-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-briefcase.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-browsers-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-browsers.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-calculator-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-calculator.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-calendar-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-calendar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-camera-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-camera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cart-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-chatboxes-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-chatboxes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-chatbubble-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-chatbubble.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-checkmark-empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-checkmark-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-checkmark.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-circle-filled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-circle-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-clock-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-clock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-close-empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-close-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-close.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloud-download-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloud-download.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloud-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloud-upload-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloud-upload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloud.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloudy-night-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloudy-night.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloudy-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cloudy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cog-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-cog.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-compose-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-compose.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-contact-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-contact.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-copy-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-copy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-download-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-download.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-drag.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-email-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-expand.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-eye-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-eye.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-fastforward-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-fastforward.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-filing-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-filing.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-film-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-film.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-flag-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-flag.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-folder-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-folder.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-football-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-football.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-gear-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-gear.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-glasses-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-glasses.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-heart-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-heart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-help-empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-help-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-help.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-home-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-home.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-infinite-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-infinite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-information-empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-information-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-information.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-ionic-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-keypad-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-keypad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-lightbulb-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-lightbulb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-location-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-location.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-locked-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-locked.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-loop-strong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-loop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-medkit-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-medkit.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-mic-off.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-mic-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-mic.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-minus-empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-minus-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-minus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-monitor-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-monitor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-moon-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-moon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-more-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-more.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-musical-note.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-musical-notes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-navigate-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-navigate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-paper-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-paper.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-paperplane-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-paperplane.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-partlysunny-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-partlysunny.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pause-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pause.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-paw-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-paw.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-people-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-people.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-person-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-person.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-personadd-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-personadd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-photos-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-photos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pie-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pie.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-play-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-play.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-plus-empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-plus-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-plus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pricetag-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pricetag.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pricetags-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pricetags.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-printer-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-printer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pulse-strong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-pulse.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-rainy-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-rainy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-recording-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-recording.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-redo-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-redo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-refresh-empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-refresh-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-refresh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-reload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-reverse-camera-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-reverse-camera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-rewind-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-rewind.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-search-strong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-settings-strong.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-settings.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-shrink.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-skipbackward-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-skipbackward.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-skipforward-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-skipforward.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-snowy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-speedometer-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-speedometer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-star-half.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-star-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-star.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-stopwatch-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-stopwatch.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-sunny-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-sunny.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-telephone-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-telephone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-tennisball-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-tennisball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-thunderstorm-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-thunderstorm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-time-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-time.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-timer-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-timer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-toggle-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-toggle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-trash-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-trash.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-undo-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-undo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-unlocked-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-unlocked.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-upload-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-upload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-videocam-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-videocam.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-volume-high.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-volume-low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-wineglass-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-wineglass.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-world-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ios7-world.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/iphone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ipod.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/jet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/key.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/knife.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/laptop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/leaf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/levels.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/lightbulb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/link.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/load-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/load-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/load-c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/load-d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/location.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/locked.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/log-in.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/log-out.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/loop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/magnet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/male.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/man.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/map.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/medkit.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/merge.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/mic-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/mic-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/mic-c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/minus-circled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/minus-round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/minus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/model-s.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/monitor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/more.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/mouse.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/music-note.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/navicon-round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/navicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/navigate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/network.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/no-smoking.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/nuclear.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/outlet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/paper-airplane.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/paperclip.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/pause.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/person-add.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/person-stalker.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/person.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/pie-graph.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/pin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/pinpoint.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/pizza.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/plane.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/planet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/play.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/playstation.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/plus-circled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/plus-round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/plus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/podium.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/pound.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/power.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/pricetag.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/pricetags.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/printer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/pull-request.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/qr-scanner.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/quote.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/radio-waves.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/record.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/refresh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/reply-all.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/reply.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ribbon-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/ribbon-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/sad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/scissors.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/settings.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/share.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/shuffle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/skip-backward.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/skip-forward.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-android-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-android.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-apple-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-apple.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-bitcoin-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-bitcoin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-buffer-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-buffer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-designernews-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-designernews.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-dribbble-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-dribbble.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-dropbox-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-dropbox.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-facebook-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-facebook.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-foursquare-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-foursquare.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-freebsd-devil.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-github-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-github.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-google-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-google.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-googleplus-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-googleplus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-hackernews-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-hackernews.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-instagram-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-instagram.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-linkedin-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-linkedin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-pinterest-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-pinterest.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-reddit-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-reddit.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-rss-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-rss.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-skype-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-skype.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-tumblr-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-tumblr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-tux.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-twitter-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-twitter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-usd-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-usd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-vimeo-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-vimeo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-windows-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-windows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-wordpress-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-wordpress.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-yahoo-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-yahoo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-youtube-outline.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/social-youtube.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/speakerphone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/speedometer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/spoon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/star.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/stats-bars.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/steam.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/stop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/thermometer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/thumbsdown.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/thumbsup.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/toggle-filled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/toggle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/trash-a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/trash-b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/trophy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/umbrella.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/university.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/unlocked.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/upload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/usb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/videocamera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/volume-high.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/volume-low.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/volume-medium.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/volume-mute.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/wand.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/waterdrop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/wifi.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/wineglass.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/woman.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/wrench.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/png/512/xbox.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/scss/_ionicons-font.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/scss/_ionicons-icons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/scss/_ionicons-variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/scss/ionicons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/alert-circled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/alert.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-add-circle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-add.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-alarm-clock.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-alert.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-apps.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-archive.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-back.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-down.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-dropdown-circle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-dropdown.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-dropleft-circle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-dropleft.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-dropright-circle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-dropright.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-dropup-circle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-dropup.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-forward.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-arrow-up.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-attach.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-bar.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-bicycle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-boat.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-bookmark.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-bulb.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-bus.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-calendar.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-call.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-camera.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-cancel.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-car.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-cart.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-chat.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-checkbox-blank.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-checkbox-outline-blank.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-checkbox-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-checkbox.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-checkmark-circle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-clipboard.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-close.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-cloud-circle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-cloud-done.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-cloud-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-cloud.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-color-palette.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-compass.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-contact.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-contacts.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-contract.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-create.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-delete.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-desktop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-document.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-done-all.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-done.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-download.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-drafts.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-exit.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-expand.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-favorite-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-favorite.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-film.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-folder-open.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-folder.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-funnel.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-globe.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-hand.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-hangout.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-happy.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-home.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-image.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-laptop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-list.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-locate.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-lock.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-mail.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-map.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-menu.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-microphone-off.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-microphone.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-more-horizontal.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-more-vertical.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-navigate.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-notifications-none.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-notifications-off.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-notifications.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-open.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-options.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-people.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-person-add.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-person.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-phone-landscape.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-phone-portrait.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-pin.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-plane.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-playstore.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-print.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-radio-button-off.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-radio-button-on.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-refresh.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-remove-circle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-remove.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-restaurant.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-sad.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-search.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-send.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-settings.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-share-alt.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-share.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-star-half.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-star-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-star.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-stopwatch.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-subway.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-sunny.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-sync.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-textsms.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-time.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-train.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-unlock.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-upload.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-volume-down.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-volume-mute.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-volume-off.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-volume-up.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-walk.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-warning.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-watch.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/android-wifi.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/aperture.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/archive.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-down-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-down-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-down-c.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-expand.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-graph-down-left.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-graph-down-right.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-graph-up-left.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-graph-up-right.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-left-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-left-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-left-c.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-move.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-resize.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-return-left.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-return-right.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-right-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-right-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-right-c.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-shrink.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-swap.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-up-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-up-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/arrow-up-c.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/asterisk.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/at.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/backspace-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/backspace.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/bag.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/battery-charging.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/battery-empty.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/battery-full.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/battery-half.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/battery-low.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/beaker.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/beer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/bluetooth.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/bonfire.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/bookmark.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/bowtie.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/briefcase.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/bug.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/calculator.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/calendar.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/camera.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/card.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/cash.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chatbox-working.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chatbox.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chatboxes.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chatbubble-working.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chatbubble.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chatbubbles.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/checkmark-circled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/checkmark-round.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/checkmark.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chevron-down.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chevron-left.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chevron-right.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/chevron-up.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/clipboard.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/clock.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/close-circled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/close-round.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/close.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/closed-captioning.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/cloud.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/code-download.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/code-working.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/code.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/coffee.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/compass.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/compose.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/connection-bars.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/contrast.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/crop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/cube.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/disc.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/document-text.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/document.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/drag.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/earth.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/easel.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/edit.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/egg.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/eject.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/email-unread.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/email.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/erlenmeyer-flask-bubbles.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/erlenmeyer-flask.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/eye-disabled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/eye.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/female.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/filing.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/film-marker.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/fireball.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/flag.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/flame.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/flash-off.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/flash.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/folder.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/fork-repo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/fork.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/forward.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/funnel.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/gear-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/gear-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/grid.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/hammer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/happy-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/happy.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/headphone.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/heart-broken.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/heart.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/help-buoy.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/help-circled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/help.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/home.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/icecream.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/image.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/images.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/information-circled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/information.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ionic.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-alarm-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-alarm.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-albums-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-albums.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-americanfootball-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-americanfootball.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-analytics-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-analytics.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-back.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-down.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-forward.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-left.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-right.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-thin-down.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-thin-left.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-thin-right.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-thin-up.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-arrow-up.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-at-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-at.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-barcode-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-barcode.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-baseball-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-baseball.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-basketball-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-basketball.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-bell-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-bell.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-body-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-body.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-bolt-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-bolt.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-book-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-book.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-bookmarks-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-bookmarks.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-box-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-box.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-briefcase-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-briefcase.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-browsers-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-browsers.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-calculator-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-calculator.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-calendar-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-calendar.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-camera-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-camera.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cart-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cart.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-chatboxes-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-chatboxes.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-chatbubble-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-chatbubble.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-checkmark-empty.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-checkmark-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-checkmark.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-circle-filled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-circle-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-clock-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-clock.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-close-empty.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-close-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-close.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloud-download-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloud-download.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloud-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloud-upload-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloud-upload.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloud.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloudy-night-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloudy-night.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloudy-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cloudy.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cog-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-cog.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-color-filter-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-color-filter.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-color-wand-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-color-wand.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-compose-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-compose.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-contact-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-contact.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-copy-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-copy.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-crop-strong.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-crop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-download-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-download.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-drag.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-email-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-email.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-eye-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-eye.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-fastforward-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-fastforward.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-filing-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-filing.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-film-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-film.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-flag-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-flag.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-flame-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-flame.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-flask-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-flask.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-flower-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-flower.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-folder-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-folder.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-football-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-football.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-game-controller-a-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-game-controller-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-game-controller-b-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-game-controller-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-gear-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-gear.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-glasses-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-glasses.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-grid-view-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-grid-view.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-heart-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-heart.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-help-empty.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-help-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-help.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-home-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-home.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-infinite-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-infinite.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-information-empty.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-information-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-information.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-ionic-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-keypad-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-keypad.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-lightbulb-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-lightbulb.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-list-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-list.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-location-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-location.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-locked-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-locked.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-loop-strong.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-loop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-medical-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-medical.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-medkit-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-medkit.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-mic-off.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-mic-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-mic.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-minus-empty.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-minus-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-minus.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-monitor-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-monitor.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-moon-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-moon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-more-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-more.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-musical-note.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-musical-notes.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-navigate-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-navigate.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-nutrition-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-nutrition.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-paper-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-paper.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-paperplane-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-paperplane.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-partlysunny-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-partlysunny.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pause-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pause.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-paw-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-paw.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-people-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-people.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-person-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-person.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-personadd-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-personadd.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-photos-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-photos.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pie-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pie.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pint-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pint.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-play-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-play.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-plus-empty.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-plus-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-plus.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pricetag-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pricetag.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pricetags-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pricetags.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-printer-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-printer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pulse-strong.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-pulse.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-rainy-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-rainy.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-recording-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-recording.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-redo-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-redo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-refresh-empty.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-refresh-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-refresh.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-reload.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-reverse-camera-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-reverse-camera.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-rewind-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-rewind.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-rose-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-rose.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-search-strong.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-search.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-settings-strong.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-settings.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-shuffle-strong.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-shuffle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-skipbackward-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-skipbackward.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-skipforward-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-skipforward.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-snowy.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-speedometer-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-speedometer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-star-half.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-star-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-star.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-stopwatch-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-stopwatch.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-sunny-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-sunny.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-telephone-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-telephone.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-tennisball-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-tennisball.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-thunderstorm-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-thunderstorm.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-time-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-time.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-timer-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-timer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-toggle-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-toggle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-trash-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-trash.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-undo-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-undo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-unlocked-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-unlocked.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-upload-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-upload.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-videocam-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-videocam.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-volume-high.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-volume-low.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-wineglass-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-wineglass.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-world-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ios-world.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ipad.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/iphone.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ipod.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/jet.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/key.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/knife.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/laptop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/leaf.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/levels.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/lightbulb.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/link.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/load-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/load-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/load-c.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/load-d.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/location.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/lock-combination.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/locked.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/log-in.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/log-out.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/loop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/magnet.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/male.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/man.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/map.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/medkit.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/merge.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/mic-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/mic-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/mic-c.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/minus-circled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/minus-round.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/minus.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/model-s.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/monitor.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/more.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/mouse.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/music-note.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/navicon-round.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/navicon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/navigate.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/network.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/no-smoking.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/nuclear.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/outlet.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/paintbrush.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/paintbucket.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/paper-airplane.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/paperclip.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/pause.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/person-add.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/person-stalker.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/person.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/pie-graph.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/pin.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/pinpoint.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/pizza.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/plane.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/planet.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/play.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/playstation.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/plus-circled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/plus-round.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/plus.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/podium.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/pound.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/power.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/pricetag.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/pricetags.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/printer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/pull-request.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/qr-scanner.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/quote.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/radio-waves.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/record.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/refresh.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/reply-all.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/reply.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ribbon-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/ribbon-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/sad-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/sad.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/scissors.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/search.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/settings.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/share.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/shuffle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/skip-backward.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/skip-forward.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-android-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-android.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-angular-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-angular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-apple-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-apple.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-bitcoin-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-bitcoin.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-buffer-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-buffer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-chrome-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-chrome.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-codepen-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-codepen.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-css3-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-css3.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-designernews-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-designernews.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-dribbble-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-dribbble.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-dropbox-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-dropbox.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-euro-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-euro.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-facebook-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-facebook.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-foursquare-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-foursquare.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-freebsd-devil.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-github-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-github.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-google-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-google.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-googleplus-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-googleplus.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-hackernews-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-hackernews.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-html5-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-html5.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-instagram-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-instagram.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-javascript-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-javascript.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-linkedin-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-linkedin.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-markdown.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-nodejs.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-octocat.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-pinterest-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-pinterest.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-python.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-reddit-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-reddit.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-rss-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-rss.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-sass.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-skype-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-skype.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-snapchat-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-snapchat.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-tumblr-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-tumblr.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-tux.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-twitch-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-twitch.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-twitter-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-twitter.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-usd-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-usd.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-vimeo-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-vimeo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-whatsapp-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-whatsapp.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-windows-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-windows.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-wordpress-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-wordpress.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-yahoo-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-yahoo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-yen-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-yen.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-youtube-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/social-youtube.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/soup-can-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/soup-can.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/speakerphone.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/speedometer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/spoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/star.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/stats-bars.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/steam.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/stop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/thermometer.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/thumbsdown.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/thumbsup.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/toggle-filled.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/toggle.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/transgender.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/trash-a.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/trash-b.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/trophy.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/tshirt-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/tshirt.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/umbrella.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/university.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/unlocked.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/upload.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/usb.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/videocamera.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/volume-high.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/volume-low.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/volume-medium.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/volume-mute.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/wand.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/waterdrop.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/wifi.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/wineglass.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/woman.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/wrench.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ionicons/src/xbox.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Gemfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Gemfile.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/ISSUE_TEMPLATE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/dist/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/grunt/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/grunt/bs-commonjs-generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/grunt/bs-lessdoc-parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/grunt/bs-raw-files-generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/grunt/change-version.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/grunt/configBridge.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/grunt/npm-shrinkwrap.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/grunt/sauce_browsers.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/.jscsrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/affix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/alert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/dropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/popover.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/tab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/transition.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/.csscomb.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/.csslintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/alerts.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/badges.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/bootstrap.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/breadcrumbs.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/button-groups.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/buttons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/carousel.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/close.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/code.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/component-animations.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/dropdowns.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/forms.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/glyphicons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/grid.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/input-groups.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/jumbotron.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/labels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/list-group.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/media.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/alerts.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/background-variant.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/border-radius.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/buttons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/center-block.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/clearfix.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/forms.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/gradients.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/grid-framework.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/grid.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/hide-text.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/image.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/labels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/list-group.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/nav-divider.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/nav-vertical-align.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/opacity.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/pagination.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/panels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/progress-bar.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/reset-filter.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/reset-text.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/resize.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/responsive-visibility.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/size.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/tab-focus.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/table-row.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/text-emphasis.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/text-overflow.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/mixins/vendor-prefixes.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/modals.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/navbar.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/navs.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/normalize.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/pager.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/pagination.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/panels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/popovers.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/print.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/progress-bars.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/responsive-embed.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/responsive-utilities.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/scaffolding.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/tables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/theme.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/thumbnails.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/tooltip.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/type.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/utilities.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/variables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/less/wells.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/nuget/MyGet.ps1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/nuget/bootstrap.less.nuspec" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/nuget/bootstrap.nuspec" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/package.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/AdminLTE.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/AdminLTE.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/adminlte.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/adminlte.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/alt/AdminLTE-bootstrap-social.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/alt/AdminLTE-bootstrap-social.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/alt/AdminLTE-fullcalendar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/alt/AdminLTE-fullcalendar.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/alt/AdminLTE-select2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/alt/AdminLTE-select2.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/alt/AdminLTE-without-plugins.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/alt/AdminLTE-without-plugins.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/_all-skins.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/_all-skins.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-black-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-black-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-black.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-blue-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-blue-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-blue.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-blue.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-green-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-green-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-green.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-green.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-purple-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-purple-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-purple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-purple.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-red-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-red-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-red.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-red.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-yellow-light.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-yellow-light.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-yellow.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/skins/skin-yellow.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/HELP-US-OUT.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/animated.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/core.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/fixed-width.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/icons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/larger.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/list.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/mixins.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/path.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/screen-reader.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/stacked.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/variables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_animated.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_core.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_fixed-width.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_icons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_larger.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_list.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_path.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_screen-reader.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_stacked.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/avatar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/avatar04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/avatar2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/avatar3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/avatar5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/credit/american-express.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/credit/cirrus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/credit/mastercard.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/credit/mestro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/credit/paypal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/credit/paypal2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/credit/visa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/default-50x50.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/photo1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/photo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/photo3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/photo4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/user1-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/user2-160x160.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/user3-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/user4-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/user5-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/user6-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/user7-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/user8-128x128.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/.bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/AUTHORS.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/dist/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/dist/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/dist/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/dist/jquery.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/dist/jquery.slim.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/dist/jquery.slim.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/dist/jquery.slim.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/external/sizzle/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/external/sizzle/dist/sizzle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/external/sizzle/dist/sizzle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/external/sizzle/dist/sizzle.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/.eslintrc.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/ajax.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/ajax/jsonp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/ajax/load.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/ajax/parseXML.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/ajax/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/ajax/var/location.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/ajax/var/nonce.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/ajax/var/rquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/ajax/xhr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/attributes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/attributes/attr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/attributes/classes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/attributes/prop.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/attributes/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/attributes/val.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/callbacks.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/DOMEval.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/access.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/camelCase.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/nodeName.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/parseHTML.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/ready-no-deferred.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/ready.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/readyException.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/stripAndCollapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/toType.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/core/var/rsingleTag.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/addGetHookIf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/adjustCSS.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/curCSS.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/showHide.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/var/cssExpand.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/var/getStyles.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/var/isHiddenWithinTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/var/rboxStyle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/var/rnumnonpx.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/css/var/swap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/data/Data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/data/var/acceptData.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/data/var/dataPriv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/data/var/dataUser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/deferred.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/deferred/exceptionHook.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/deprecated.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/dimensions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/effects.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/effects/Tween.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/effects/animatedSelector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/event.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/event/ajax.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/event/alias.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/event/focusin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/event/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/event/trigger.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/exports/amd.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/exports/global.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation/_evalUrl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation/buildFragment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation/getAll.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation/setGlobalEval.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation/var/rcheckableType.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation/var/rscriptType.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation/var/rtagName.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/manipulation/wrapMap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/offset.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/queue.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/queue/delay.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/selector-native.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/selector-sizzle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/selector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/serialize.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/traversing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/traversing/findFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/traversing/var/dir.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/traversing/var/rneedsContext.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/traversing/var/siblings.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/ObjectFunctionString.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/arr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/class2type.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/concat.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/document.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/documentElement.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/fnToString.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/getProto.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/hasOwn.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/indexOf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/isFunction.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/isWindow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/pnum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/push.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/rcssNum.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/rnothtmlwhite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/slice.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/support.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/var/toString.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jquery/src/wrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/adminlte.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/adminlte.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/demo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/pages/dashboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/pages/dashboard2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/starter.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +1733,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="starter.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/starter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="232" column="37" lean-forward="false" selection-start-line="232" selection-start-column="37" selection-end-line="232" selection-end-column="37" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#3;n#ul#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#6;n#ul#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#7;n#ul#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,6 +1792,8 @@
         <option value="$PROJECT_DIR$/Home.html" />
         <option value="$PROJECT_DIR$/Login.html" />
         <option value="$PROJECT_DIR$/README" />
+        <option value="D:/有道数据/AdminLTE-2.4.5/starter.html" />
+        <option value="$PROJECT_DIR$/starter.html" />
       </list>
     </option>
   </component>
@@ -53,12 +1804,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-17" />
+    <option name="y" value="161" />
+    <option name="width" value="1363" />
+    <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -84,6 +1837,11 @@
               <item name="MyMall" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyMall" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyMall" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -104,10 +1862,19 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Project\MyMall\js" />
+      <recent name="F:\Project\MyMall\adminLTE" />
+      <recent name="F:\Project\MyMall\bootstrap" />
+      <recent name="F:\Project\MyMall\jquery" />
+      <recent name="F:\Project\MyMall\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Project\MyMall" />
+      <recent name="F:\Project\MyMall\js\bootstrap" />
+      <recent name="F:\Project\MyMall\css" />
       <recent name="F:\Project\MyMall\image" />
       <recent name="F:\Project\MyMall\js" />
-      <recent name="F:\Project\MyMall\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -218,7 +1985,7 @@
       <option name="presentableId" value="Default" />
       <updated>1548747214514</updated>
       <workItem from="1548747215898" duration="17008000" />
-      <workItem from="1549605417502" duration="541000" />
+      <workItem from="1549605417502" duration="9255000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1549605525958</created>
@@ -227,14 +1994,22 @@
       <option name="project" value="LOCAL" />
       <updated>1549605525958</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试提交">
+      <created>1549605963607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549605963607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17549000" />
+    <option name="totallyTimeSpent" value="26263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -245,10 +2020,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24130106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12102874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -297,7 +2072,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css" />
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js" />
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css" />
     <entry file="file://$PROJECT_DIR$/Home.html" />
     <entry file="file://$PROJECT_DIR$/Login.html" />
     <entry file="file://$PROJECT_DIR$/README">
@@ -305,6 +2079,169 @@
         <state relative-caret-position="30">
           <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ionicons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AdminLTE/starter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1617">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/adminLTE/css/adminlte.min.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/有道数据/AdminLTE-2.4.5/dist/css/AdminLTE.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/adminLTE/alt/AdminLTE-select2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/有道数据/AdminLTE-2.4.5/starter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="67" column="8" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+          <folding>
+            <element signature="n#a#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/js/tab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ionicons/css/ionicons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/src/css/var/swap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/default-50x50.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/avatar04.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/avatar3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/avatar2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/avatar.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="232" column="37" lean-forward="false" selection-start-line="232" selection-start-column="37" selection-end-line="232" selection-end-column="37" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#section#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
